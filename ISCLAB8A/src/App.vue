@@ -51,10 +51,12 @@
   <body class="bg-green-200 grid grid-cols-2 gap-2 p-10">
     <div>
       <p class="font-mono font-bold text-4xl">¿Qué quermos lograr con el ISCLab?</p>
-      <img src="" alt="">
+      <img src="D:\TecMotul\8A\Topicos avanzados de programación web\ProyectoVueJS\ProyectoVueJS\ISCLAB8A\src\assets/lab.jpg" alt="no hay imagen :(">
     </div>
     <div>
-      adios
+      <p class="text-xl font-mono ml-5">Buscamos apoyar las ideas inovadoras de los alumnos del instituto tecnológico superior, sin importar su
+        ingenieria o su conocimiento en el area de desarrollo.
+      </p>
     </div>
     
   </body>

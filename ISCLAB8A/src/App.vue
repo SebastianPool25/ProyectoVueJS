@@ -51,12 +51,12 @@
 
   <div class="bg-green-200 grid grid-cols-2 gap-2 p-10">
     <div>
-      <p class="font-mono font-bold text-4xl">¿Qué quermos lograr con el ISCLab?</p>
-      <img src="D:\TecMotul\8A\Topicos avanzados de programación web\ProyectoVueJS\ProyectoVueJS\ISCLAB8A\src\assets/lab.jpg" alt="no hay imagen :(">
+      <p class="font-mono font-bold text-4xl">¿Qué queremos lograr con el ISCLab?</p>
+      <img src="./components/lab.jpg" alt="no hay imagen :(" width="65%" height="50%" class="pl-10 my-5">
 
     </div>
     <div>
-      <p class="text-xl font-mono ml-5 mt-7">Buscamos apoyar las ideas inovadoras de los alumnos del instituto tecnológico superior, sin importar su
+      <p class="text-2xl font-mono ml-5 mt-10">Buscamos apoyar las ideas inovadoras de los alumnos del instituto tecnológico superior, sin importar su
         ingenieria o su conocimiento en el area de desarrollo.
       </p>
     </div>
@@ -64,7 +64,16 @@
   </div>
 
   <div class="bg-green-300 grid grid-cols-2 gap-2 p-10">
+    <div>
     <p class="font-mono font-bold text-4xl">¿Qué clase de proyectos laboramos?</p>
+    <img src="./components/codigo.jpg" alt="no hay imagen :(" widht="20%" height="40%" class="pl-10 my-5">
+  </div>
+  <div>
+    <p class="text-2xl font-mono ml-5 mt-10">Buscamos apoyar las ideas inovadoras de los alumnos del instituto tecnológico superior, sin importar su
+        ingenieria o su conocimiento en el area de desarrollo.
+    </p>
+
+  </div>
   </div>
 
 </body>

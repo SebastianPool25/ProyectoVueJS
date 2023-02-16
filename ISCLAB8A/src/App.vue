@@ -5,7 +5,7 @@
 <template>
   <header class="bg-amber-200 p-10 font-mono grid grid-cols-2 gap-2">
 
-    <div class="">
+    <div class="pl-16">
     <svg width="60%" height="100%" viewBox="0 0 500 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="
               fill-rule: evenodd;
               clip-rule: evenodd;
@@ -41,25 +41,33 @@
     
     </div>
 
-    <div class="">
-    <h2 class="text-2xl text-end">¿Tienes una idea inovadora?</h2>
-    <h4 class="text-l text-end">Contactanos: jose.19070054@itsmotul.edu.mx</h4>
+    <div class="ml-16">
+    <h2 class="text-4xl ml-16 text-end">¿Tienes una idea inovadora?</h2>
+    <h4 class="text-xl ml-16 text-end">Contactanos: jose.19070054@itsmotul.edu.mx</h4>
     </div>
 
   </header>
+<body>
 
-  <body class="bg-green-200 grid grid-cols-2 gap-2 p-10">
+  <div class="bg-green-200 grid grid-cols-2 gap-2 p-10">
     <div>
       <p class="font-mono font-bold text-4xl">¿Qué quermos lograr con el ISCLab?</p>
       <img src="D:\TecMotul\8A\Topicos avanzados de programación web\ProyectoVueJS\ProyectoVueJS\ISCLAB8A\src\assets/lab.jpg" alt="no hay imagen :(">
+
     </div>
     <div>
-      <p class="text-xl font-mono ml-5">Buscamos apoyar las ideas inovadoras de los alumnos del instituto tecnológico superior, sin importar su
+      <p class="text-xl font-mono ml-5 mt-7">Buscamos apoyar las ideas inovadoras de los alumnos del instituto tecnológico superior, sin importar su
         ingenieria o su conocimiento en el area de desarrollo.
       </p>
     </div>
     
-  </body>
+  </div>
+
+  <div class="bg-green-300 grid grid-cols-2 gap-2 p-10">
+    <p class="font-mono font-bold text-4xl">¿Qué clase de proyectos laboramos?</p>
+  </div>
+
+</body>
 
   <footer>
 

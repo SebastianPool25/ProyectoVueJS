@@ -1,12 +1,12 @@
 <script setup>
 
-
 </script>
 
 <template>
-  <header class="bg-amber-200 p-10 font-mono">
+  <header class="bg-amber-200 p-10 font-mono grid grid-cols-2 gap-2">
 
-    <svg width="25%" height="50%" viewBox="0 0 500 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="
+    <div class="">
+    <svg width="60%" height="100%" viewBox="0 0 500 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="
               fill-rule: evenodd;
               clip-rule: evenodd;
               stroke-miterlimit: 1.5;
@@ -39,14 +39,23 @@
             </g>
           </svg>
     
-    <div class="mr-8">
-    <h2 class="text-2xl text-right">¿Tienes una idea inovadora?</h2>
-    <h4 class="text-l text-right">Contactanos: jose.19070054@itsmotul.edu.mx</h4>
+    </div>
+
+    <div class="">
+    <h2 class="text-2xl text-end">¿Tienes una idea inovadora?</h2>
+    <h4 class="text-l text-end">Contactanos: jose.19070054@itsmotul.edu.mx</h4>
     </div>
 
   </header>
 
-  <body class="bg-green-200">
+  <body class="bg-green-200 grid grid-cols-2 gap-2 p-10">
+    <div>
+      <p class="font-mono font-bold text-4xl">¿Qué quermos lograr con el ISCLab?</p>
+      <img src="" alt="">
+    </div>
+    <div>
+      adios
+    </div>
     
   </body>
 
